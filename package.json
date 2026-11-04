@@ -1,0 +1,9 @@
+{
+  "name": "island-survival-multiplayer",
+  "version": "15.0.0",
+  "description": "ISLAND SURVIVAL V15 - Multiplayer Online server (Node.js, zero dependencies)",
+  "main": "server/server.js",
+  "scripts": { "start": "node server/server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
